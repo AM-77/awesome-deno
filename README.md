@@ -26,8 +26,6 @@
 
 ## Libraries
 
-- 
-
 - [deno-fnparse](https://github.com/hashrock/deno-fnparse) - An extremely simple parser combinator for JavaScript.
 
 - [deno-opn](https://github.com/hashrock/deno-opn) - Opens stuff like websites, files, executables. Cross-platform.
@@ -81,11 +79,19 @@
 ## Tools
 
 - [elm-live-reload](https://github.com/jinjor/deno-playground/tree/master/elm-live-reload) - An elm live reloader written in Deno.
+
 - [deno-docker](https://github.com/maxmcd/deno-docker) - Dockerfiles for Deno - [https://hub.docker.com/r/maxmcd/deno.](https://hub.docker.com/r/maxmcd/deno.).
+
 - [cdeno](https://www.cdeno.org) - A CDN for deno. Discover and publish versioned and immutable deno modules.
+
 - [deno install](https://github.com/denoland/deno_install) - deno Binary Installer.
+
 - [denoget](https://github.com/syumai/deno-libs/tree/master/denoget) - denoget installs executable deno script.
+
 - [denoinit](https://github.com/syumai/deno-libs/tree/master/denoinit) - denoinit generates useful files for deno project.
+
 - [denopkg](https://github.com/denopkg/denopkg.com) - An easier way to use code from GitHub in your Deno project.
+
 - [dvm](https://github.com/justjavac/dvm) - Deno Version Manager - Easy way to manage multiple active deno versions.
+
 - [deno-action](https://github.com/denolib/deno-action) - Github action for setup Deno.
